@@ -3,17 +3,16 @@ TempoNest 2
 ****
 
 
-Profile domain pulsar timing analysis (see `Lentati et al., 2017<https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.3706L/abstract>`).
-
+Profile domain pulsar timing analysis (see `Lentati et al., 2017<https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.3706L/abstract>`_).
 Python2 based replacement for TempoNest, GPU accelerated (CPU implemented).
 
 Requirements
 ####
 You will need the following libraries installed :
 
-- PSRCHIVE (see the `Installation guide<https://psrchive.sourceforge.net/download.shtml>`)
-- PTMCMCSampler (see the `github repository<https://github.com/jellis18/PTMCMCSampler>`)
-- Libstempo (see the `github repository<https://github.com/vallis/libstempo>`)
+- PSRCHIVE (see the `Installation guide<https://psrchive.sourceforge.net/download.shtml>`_)
+- PTMCMCSampler (see the `github repository<https://github.com/jellis18/PTMCMCSampler>`_)
+- Libstempo (see the `github repository<https://github.com/vallis/libstempo>`_)
 
 Installation 
 ####
