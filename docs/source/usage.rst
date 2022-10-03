@@ -6,13 +6,10 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+First, install TempoNest2 using the `installation guide <https://temponest2-user-guide.readthedocs.io/en/latest/#installation>`_.
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
-
-Creating recipes
+Starting with TempoNest2
 ----------------
 
 To retrieve a list of random ingredients,
