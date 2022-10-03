@@ -21,16 +21,19 @@ You will need to install **Ellipsis**. Instructions for compiling **Ellipsis** c
 
 .. highlight:: bash
    :linenothreshold: 1
+::
    gcc -shared -o libghs.so libellipsis.a -Wl 
 
 The location of libghs.so then needs to be added to your LD_LIBRARY_PATH in order for python to find it by :
 
 .. code-block:: console
+::
    echo LD_LIBRARY_PATH=$LIBRARY_PATH:/path_to_libghs.so/
 
 TempoNest 2 can then be installed by running:
 
 .. code-block:: console
+::
    python setup.py install
 
 Using
