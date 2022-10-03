@@ -21,7 +21,7 @@ You will need to install **Ellipsis**. Instructions for compiling **Ellipsis** c
 
 .. highlight:: bash
    :linenothreshold: 1
-::
+   
    gcc -shared -o libghs.so libellipsis.a -Wl 
 
 The location of libghs.so then needs to be added to your LD_LIBRARY_PATH in order for python to find it by :
