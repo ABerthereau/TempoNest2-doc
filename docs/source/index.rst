@@ -5,7 +5,7 @@ Welcome to Lumache's documentation!
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
-The documentation can be found on Read The Docs.
+The documentation can be found on Read The Docs (see the link)
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
