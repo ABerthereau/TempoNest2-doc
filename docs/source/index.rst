@@ -5,6 +5,12 @@
 Welcome to TempoNest2's documentation!
 ======================================
 
+   
+The profile domain pulsar timing analysis method (see `Lentati et al., 2017 <https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.3706L/abstract>`_).
+Python2 based replacement for TempoNest, GPU accelerated (CPU implemented).
+
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Sections:
@@ -13,17 +19,6 @@ Welcome to TempoNest2's documentation!
    TempoNest2
    tutorials
    
-   
-The profile domain pulsar timing analysis method (see `Lentati et al., 2017 <https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.3706L/abstract>`_).
-Python2 based replacement for TempoNest, GPU accelerated (CPU implemented).
-
-
-Using
-=====
-See the online documentation for :
-
-* :ref:`Tutorials`
-* :ref:`API references`
 
 Examples
 ========
