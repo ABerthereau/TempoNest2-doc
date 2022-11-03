@@ -17,7 +17,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 sys.path.insert(0, os.path.abspath('../'))
-sys.path.insert(0, os.path.abspath('../../TempoNest2/'))
+sys.path.insert(0, os.path.abspath('../../'))
 # -- Project information -----------------------------------------------------
 
 project = 'TempoNest2'
