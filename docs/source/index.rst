@@ -21,6 +21,6 @@ Python2 based replacement for TempoNest, GPU accelerated (CPU implemented).
    
 
 Examples
-========
-The `Example directories <https://github.com/LindleyLentati/TempoNest2/tree/master/GHS>`_ include ipython notebooks with two differents analysis. 
+
+   The `Example directories <https://github.com/LindleyLentati/TempoNest2/tree/master/GHS>`_ include ipython notebooks with two differents analysis. 
 
