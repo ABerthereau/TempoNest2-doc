@@ -6,7 +6,7 @@ This is a guide you can follow to start a basic pulsar analysis with TempoNest2.
 
 Initialization
 ==============
-To perform the analysis, you will need the pulsar observations, a .tim file and a .par file. You will require to instanciate a Likelihood object for each analysis. The parameter *useGPU* allows you to choose to perform the sampling on GPU or CPU (default is False).
+To perform the analysis, you will need the pulsar observations, a .tim file and a .par file. You will need to instanciate a Likelihood object for each analysis. The parameter *useGPU* allows you to choose to perform the sampling on GPU or CPU (default is False).
 
 
 .. code-block:: python
